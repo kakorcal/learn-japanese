@@ -1,0 +1,2 @@
+create json files (colloquial, vocabulary, functional, practical-phrases, practical-rules, verbs)
+sort out temp.txt
