@@ -1,2 +1,7 @@
+Daily method:
+1. 1 page of jlpt writing
+2. Learn 3~5 jouyou kanji (onnyomi/kunnyomi. jyukugo examples. categorize by bushu / kumitate / naritachi https://www.youtube.com/watch?v=1a4xy4a7LnQ https://www.youtube.com/watch?v=rBCgTBD-rgQ https://kanji.jitenon.jp/cat/bushu https://okjiten.jp/10-jyouyoukanjiitiran.html)
+3. Learn 1 jouyou yonnmojijukugo (https://www.weblio.jp/phrase https://www.youtube.com/watch?v=4OrSpaGRnCo https://www.youtube.com/watch?v=4iivXJESxDo. Note the meaning)
+
 create json files (colloquial, vocabulary, functional, practical-phrases, practical-rules, verbs)
 sort out temp.txt
